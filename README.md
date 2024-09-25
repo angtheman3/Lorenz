@@ -1,8 +1,8 @@
 # Lorenz
 
 <div align="center">
-  <img height="200" src="angtheman3/Lorenz/Lorenz.gif"  />
+  <img src="https://raw.githubusercontent.com/angtheman3/Lorenz/main/Lorenz/Lorenz.gif" />
 </div>
 
-###
+
 
